@@ -1,0 +1,17 @@
+
+.main {
+    width: 468px;
+    height: 478px;
+    background: linear-gradient(to right, #2e2b57, #000);
+}
+
+.board {
+    width: 280px;
+    height: 462px;
+}
+
+.sq {
+    height: 21px;
+    width: 21px;
+    margin: 1px;
+}
